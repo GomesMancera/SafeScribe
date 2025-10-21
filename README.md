@@ -71,6 +71,6 @@ dotnet watch run
 ---
 ## 👥 Integrantes 
 - **Nome:Gabriel Gomes Mancera — RM:555427
-**Turma**: 2TDSPXA — FIAP
+**Turma**: 2TDSPX — FIAP
 
 ---
